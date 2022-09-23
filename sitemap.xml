@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>sladvs.ml/categories/</loc>
+    <loc>https://singular-elf-03104f.netlify.app/categories/</loc>
   </url><url>
-    <loc>sladvs.ml/series/</loc>
+    <loc>https://singular-elf-03104f.netlify.app/series/</loc>
   </url><url>
-    <loc>sladvs.ml/</loc>
+    <loc>https://singular-elf-03104f.netlify.app/</loc>
   </url><url>
-    <loc>sladvs.ml/tags/</loc>
+    <loc>https://singular-elf-03104f.netlify.app/tags/</loc>
   </url>
 </urlset>
