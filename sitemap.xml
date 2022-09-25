@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sladvs.github.io/sladvs.site/categories/</loc>
+    <loc>https://sladvs.github.io/sladvs/categories/</loc>
   </url><url>
-    <loc>https://sladvs.github.io/sladvs.site/series/</loc>
+    <loc>https://sladvs.github.io/sladvs/series/</loc>
   </url><url>
-    <loc>https://sladvs.github.io/sladvs.site/</loc>
+    <loc>https://sladvs.github.io/sladvs/</loc>
   </url><url>
-    <loc>https://sladvs.github.io/sladvs.site/tags/</loc>
+    <loc>https://sladvs.github.io/sladvs/tags/</loc>
   </url>
 </urlset>
